@@ -1,5 +1,5 @@
 let myName = "Jane"
 
-const hello = (name:string) => {return (`Hello ${name}`)}
+const hello1 = (name:string) => {return (`Hello ${name}`)}
 
-console.log(hello(myName));
+console.log(hello1(myName));
